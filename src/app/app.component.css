@@ -1,0 +1,11 @@
+mat-card{
+width: 50%;
+margin: auto;
+margin-top: 5%;
+margin-bottom: 5%;
+background: aliceblue
+}
+
+mat-form-field{
+    width: 80%;
+}
